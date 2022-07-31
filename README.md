@@ -1,2 +1,2 @@
-# Typescriptand-with-express-RestAPI
+# Typescript-with-express-RestAPI
 using mysql, typescript, express and nodejs
